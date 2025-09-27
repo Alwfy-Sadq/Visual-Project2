@@ -1,0 +1,22 @@
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\bin\Debug\مشروع فيجول 2.exe.config
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\bin\Debug\مشروع فيجول 2.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\bin\Debug\مشروع فيجول 2.pdb
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\bin\Debug\مشروع فيجول 2.xml
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.vbprojResolveAssemblyReference.cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع_فيجول_2.Form1.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع_فيجول_2.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.vbproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.xml
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.pdb
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\bin\Debug\مشروع فيجول 2.exe.config
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.exe
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.xml
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.pdb
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\bin\Debug\مشروع فيجول 2.exe
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\bin\Debug\مشروع فيجول 2.pdb
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\bin\Debug\مشروع فيجول 2.xml
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.vbprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع_فيجول_2.Form1.resources
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع_فيجول_2.Resources.resources
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 2\مشروع فيجول 2\obj\Debug\مشروع فيجول 2.vbproj.GenerateResource.Cache
